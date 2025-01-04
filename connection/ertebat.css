@@ -1,0 +1,28 @@
+body{
+    background-color: #F0F0F0; /* Light Gray */
+    color: #5D3A9B; /* Deep Purple */
+
+}
+.card-style{
+    background-color: #FFCFD2;
+    border-radius: 80px 80px 10px 10px;
+}
+.card-style .cardHeader{
+    padding: var(--bs-card-cap-padding-y) var(--bs-card-cap-padding-x);
+    margin-bottom: 0;
+    /* color: var(--bs-card-cap-color); */
+    /* background-color: var(--bs-card-cap-bg); */
+    border-bottom: var(--bs-card-border-width) solid var(--bs-card-border-color);
+}
+.list-ul{
+    list-style: none;
+    padding:5px;
+    border: #F0F0F0 solid 3px;
+    border-radius: 90px 90px 10px 10px;
+    background-color:#E0218A;
+    margin: 0 !important;
+}
+.connection-item a{
+    text-decoration: none;
+    color: #F0F0F0;
+}
